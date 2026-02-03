@@ -3,6 +3,7 @@
   <strong>Technical Operations & Full-Stack Developer</strong>
   <br>
   <sub>Node.js · React · Docker · Security-focused Development</sub>
+  <sub>https://www.linkedin.com/in/albert-banaszkiewicz00/</sub>
 </div>
 
 ---
