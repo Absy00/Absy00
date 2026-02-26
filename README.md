@@ -42,8 +42,11 @@
   - Added `pepper` option to `optionsSchema` with Zod validation (1-1024 chars)
   - Integrated pepper as `secret` parameter in `createArgon2KeyGenerator`
   - Wrote comprehensive test suite for pepper verification and validation bounds
+- Enhanced **Zod validation** logic for edge cases ([PR #38](https://github.com/Filipo11021/nodejs-password-hashing/pull/38))
+- Improved **package security** with pnpm configuration ([PR #39](https://github.com/Filipo11021/nodejs-password-hashing/pull/39))
 - Set up **semantic-release** automation ([PR #14](https://github.com/Filipo11021/nodejs-password-hashing/pull/14))
 - Configured **Dependabot** and security audit pipeline ([PR #15](https://github.com/Filipo11021/nodejs-password-hashing/pull/15), [PR #22](https://github.com/Filipo11021/nodejs-password-hashing/pull/22))
+- Resolved **dependency conflicts** with `@types/node` ([PR #37](https://github.com/Filipo11021/nodejs-password-hashing/pull/37))
 - Fixed **package distribution** issues ([PR #28](https://github.com/Filipo11021/nodejs-password-hashing/pull/28))
 
 </details>
@@ -51,6 +54,7 @@
 <details>
 <summary><strong>Formul.ai</strong> — Open Source SaaS Form Builder</summary>
 
+- Implemented **'Other' option** functionality for dropdowns, multiple choice & checkboxes ([PR #206](https://github.com/opendexcom/formul.ai/pull/206))
 - Implemented **environment-based UI gating** with `VITE_IS_SAAS` flag ([PR #182](https://github.com/opendexcom/formul.ai/pull/182))
 - Built **UsageContext** for global state management ([PR #183](https://github.com/opendexcom/formul.ai/pull/183))
 - Integrated **DodoPayments SDK** ([PR #167](https://github.com/opendexcom/formul.ai/pull/167))
